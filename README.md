@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Github stats]https://github-readme-stats.vercel.app/api?username=tomatopunk&show_icons=true
+![Github stats](https://github-readme-stats.vercel.app/api?username=tomatopunk&show_icons=true)
 
 
 - 🔭 I’m currently working on ...
