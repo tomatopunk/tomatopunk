@@ -1,5 +1,6 @@
 <h2> Hi, I'm Tomatopunk <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/0b667bb5-1970-48f8-9c5c-30f8c7f142c8/Shopaholics_-_Avatar.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220222%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220222T024806Z&X-Amz-Expires=86400&X-Amz-Signature=9c43718699b74da40cbabedd758f60e35d0f4e27ac3de718204055f024c883b8&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Shopaholics%2520-%2520Avatar.png%22&x-id=GetObject" width="230">
+<img align='right' src="https://github.com/tomatopunk/tomatopunk/blob/8955a47d79b297fd34cdc89b89e4e1a2020d2cdf/Bocchi%20za%20Rock%20%E3%81%8A%E3%81%AA%E3%81%8B%E3%81%99%E3%81%84%E3%81%9F%E3%81%AB%E3%82%83%E3%82%93.gif" width="400">
+
 <!-- <p><em>Software Enginner at  -->
 <!--             <a href="https://www.alibaba.com">Alibaba</a> -->
 <!--             <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> -->
