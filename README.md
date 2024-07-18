@@ -6,7 +6,7 @@
 <!--             <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> -->
 <!--     </em></p> -->
 
-[![Gmail Badge](https://img.shields.io/badge/-mail-c14438?style=for-the-badge&logo=maildotru&logoColor=ffffff)](mailto:lion.zhang@mail.com)
+[![Gmail Badge](https://img.shields.io/badge/-mail-c14438?style=for-the-badge&logo=maildotru&logoColor=ffffff)](mailto:avo.letters@outlook.com)
 [![GitHub Flamingo](https://img.shields.io/github/followers/tomatopunk?logo=github&style=for-the-badge)](https://github.com/tomatopunk)
 
 In the realm where observability reigns supreme,  
