@@ -9,23 +9,9 @@
 [![Gmail Badge](https://img.shields.io/badge/-mail-c14438?style=for-the-badge&logo=maildotru&logoColor=ffffff)](mailto:avo.letters@outlook.com)
 [![GitHub Flamingo](https://img.shields.io/github/followers/tomatopunk?logo=github&style=for-the-badge)](https://github.com/tomatopunk)
 
-In the realm where observability reigns supreme,  
-There dwells a sage with a noble dream.  
-In the heart of CNCF's vibrant domain,  
-They weave their magic, never in vain.
+In case I don't see you.
 
-With watchful eyes on metrics and logs,  
-They navigate through data's fog.  
-Active in projects, their passion ignites,  
-Bringing clarity to the darkest nights.
-
-A guardian of systems, both near and far,  
-Their expertise shines like a guiding star.  
-In the community's embrace, they find their place,  
-Championing progress with grace and pace.
-
-Oh, bard of observability, your tale we sing,  
-Of insights and wisdom, your legacy will bring.
+Good afternoon, good evening, and good night.
 
 ![Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tomatopunk&theme=vue)
 
